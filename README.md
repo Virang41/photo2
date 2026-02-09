@@ -9,20 +9,23 @@ React photo gallery
 
 2. Run process
 
-### Installation
+Installation
 
-bash
+```bash
 npm install
+```
 
 
 Run Development Server
 
-bash
+```bash
 npm run dev
+```
 
 
 Build for Production
 
-bash
+```bash
 npm run build
+```
 
