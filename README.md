@@ -1,28 +1,28 @@
-# Photo2
 
-A React-based photo gallery application.
 
-## 🔗 Links
+React photo gallery 
 
-- **GitHub Repository**: [https://github.com/Virang41/photo2.git](https://github.com/Virang41/photo2.git)
-- **Live Website**: [https://photo2-bbf9.onrender.com/](https://photo2-bbf9.onrender.com/)
+1. Links
 
-## 🚀 Getting Started
+- GitHub Repository: [https://github.com/Virang41/photo2.git](https://github.com/Virang41/photo2.git)
+- Website: [https://photo2-bbf9.onrender.com/](https://photo2-bbf9.onrender.com/)
+
+2. Run process
 
 ### Installation
 
-```bash
+bash
 npm install
-```
 
-### Run Development Server
 
-```bash
+Run Development Server
+
+bash
 npm run dev
-```
 
-### Build for Production
 
-```bash
+Build for Production
+
+bash
 npm run build
-```
+
